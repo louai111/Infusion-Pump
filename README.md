@@ -12,8 +12,9 @@
 
 <video width="720" height="480" controls>
   <source src="Illustration_Vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Sorry, your browser does not support embedded videos. You can <a href="Illustration_Vid.mp4">download the video here</a>.
 </video>
+
 
 This project presents an **Arduino-based infusion pump** with an integrated **drug library feature**. Designed to ensure safe and accurate delivery of intravenous fluids and medications, this system supports two operational modes: manual input of the flow rate or automatic calculation based on drug selection and patient age. 
 
@@ -26,7 +27,7 @@ Key safety features include occlusion detection, which triggers a buzzer alarm i
 The modular design combines affordability with essential functionality, offering an intuitive interface for healthcare providers to manage infusion parameters effectively.
 
 <div align="center">
-  <img src="Electronics_Circuit.jpg" alt="electronic circuit">
+  <img src="Electronic_Circuit.jpg" alt="electronic circuit">
 </div>
 
 ---
