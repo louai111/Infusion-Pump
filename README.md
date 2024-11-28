@@ -21,14 +21,18 @@ This project presents an **Arduino-based infusion pump** with an integrated **dr
 Key safety features include occlusion detection, which triggers a buzzer alarm in case of flow blockage, and precise control of the infusion rate using a pump and flow sensor. The infusion pump system is ideal for clinical settings, ensuring accurate medication delivery and patient safety.
 
 <div align="center">
-  <img src="Patient_Circuit.jpg" alt="patient circuit">
+  <img src="Electronic_Circuit.jpg" alt="patient circuit">
 </div>
 
 The modular design combines affordability with essential functionality, offering an intuitive interface for healthcare providers to manage infusion parameters effectively.
 
+<br>
+
 <div align="center">
-  <img src="Electronic_Circuit.jpg" alt="electronic circuit">
+  <img src="Patient_Circuit.jpg" alt="electronic circuit">
 </div>
+
+<br>
 
 ---
 
