@@ -98,5 +98,3 @@ The modular design combines affordability with essential functionality, offering
   [LinkedIn](https://www.linkedin.com/in/omar-khaled-064b7930a/)
 
 ---
-
-This infusion pump project provides a low-cost yet reliable solution for precise intravenous medication delivery, integrating safety and efficiency through an innovative combination of hardware and software. Let me know if further refinements are needed!
